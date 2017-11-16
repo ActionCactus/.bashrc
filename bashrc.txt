@@ -1,0 +1,14 @@
+# Color rebinds
+LS_COLORS=$LS_COLORS:'di=1;36'
+export LS_COLORS
+
+# Bash for Windows
+alias gowin='cd /mnt/c'
+alias gousr='cd /mnt/c/Users/{WINDOWS_USER}'
+alias godoc='cd /mnt/c/Users/{WINDOWS_USER}/Documents'
+alias godown='cd /mnt/c/Users/{WINDOWS_USER}/Downloads'
+alias sublime='/mnt/c/Program\ Files/Sublime\ Text\ 3/subl.exe'
+alias gocode='cd /mnt/c/Code'
+
+# Stupidity
+alias golog='cd /var/log'
