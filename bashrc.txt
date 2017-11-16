@@ -1,5 +1,5 @@
 # Color rebinds
-LS_COLORS=$LS_COLORS:'di=1;36'
+LS_COLORS=$LS_COLORS:'di=0;36'
 export LS_COLORS
 
 # Bash for Windows
